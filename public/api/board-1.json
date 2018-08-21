@@ -1,0 +1,29 @@
+{ 
+    "code": 200,
+    "data": {
+        "boardlist":[
+            {
+                "id": 1,
+                "title": "first",
+                "content": "The content of the Life",
+                "type": "Life",
+                "type_id": 1
+            },
+            {
+                "id": 4,
+                "title": "fouth",
+                "content": "The content of the Life",
+                "type": "Life",
+                "type_id": 1
+            },
+            {
+                "id": 5,
+                "title": "fifth",
+                "content": "The content of the Life",
+                "type": "Life",
+                "type_id": 1
+            }
+           
+        ]
+    }
+}

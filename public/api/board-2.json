@@ -1,0 +1,36 @@
+{ 
+    "code": 200,
+    "data": {
+        "boardlist":[
+          
+            {
+                "id": 2,
+                "title": "second",
+                "content": "The content of the Technology",
+                "type": "Technology",
+                "type_id": 2
+            },
+            {
+                "id": 8,
+                "title": "eighth",
+                "content": "The content of the Technology",
+                "type": "Technology",
+                "type_id": 2
+            },
+            {
+                "id": 9,
+                "title": "nith",
+                "content": "The content of the Technology",
+                "type": "Technology",
+                "type_id": 2
+            },
+            {
+                "id": 10,
+                "title": "tenth",
+                "content": "The content of the Technology",
+                "type": "Technology",
+                "type_id": 2
+            }
+        ]
+    }
+}

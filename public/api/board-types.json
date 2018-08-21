@@ -1,0 +1,19 @@
+{ 
+    "code": 200,
+    "data": {
+        "boardtypes":[
+            {
+                "id": 1,
+                "title": "Life"
+            },
+            {
+                "id": 2,
+                "title": "Technology"
+            },
+            {
+                "id": 3,
+                "title": "Announcement"
+            }
+        ]
+    }
+}

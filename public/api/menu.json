@@ -1,0 +1,55 @@
+
+
+{
+    "code": 200,
+    "data": [
+        {
+            "title": "OA-System",
+            "path": "/",
+            "icon": "appstore",
+            "children": [
+                {
+                    "title": "Home",
+                    "path": "/",
+                    "icon": "home"
+                },
+                {
+                    "title": "Board",
+                    "path": "/board",
+                    "icon": "apple-o"
+                }
+            ]
+        },
+        {
+            "title": "Attend",
+            "path": "/attend",
+            "icon": "team",
+            "children": [
+                {
+                    "title": "My-attend",
+                    "path": "/attend/my-attend",
+                    "icon": "user"
+                },
+                {
+                    "title": "Leave",
+                    "path": "/attend/leave",
+                    "icon": "user"
+                }
+            ]
+        },
+        {
+            "title": "More",
+            "path": "/more",
+            "icon": "exception",
+            "children": [
+                {
+                    "title": "Setting",
+                    "path": "/more/setting",
+                    "icon": "setting"
+
+                }
+            ]
+        }
+    ]
+    
+}

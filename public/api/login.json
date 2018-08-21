@@ -1,0 +1,20 @@
+
+{
+    "code": 200,
+
+    "data": {
+        "username": "剑皇濮",
+        "level": 5,
+        "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1534522065778&di=d25e906b160e96cca6492bdf2e596859&imgtype=0&src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Fface%2F868c5476fd1bfdb89220cfc70357a8e5f479e524.jpg",
+        "IDcard": 111222333444555666,
+        "college": "广西桂林嘻哈大学",
+        "education": "嘻哈荣誉教授",
+        "major": "专业嘻哈编程化技术",
+        "number": "GZ180313004", 
+        "permission": [
+            "control_board","create_board"
+        ]
+    }
+
+   
+}

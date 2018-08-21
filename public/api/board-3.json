@@ -1,0 +1,29 @@
+{ 
+    "code": 200,
+    "data": {
+        "boardlist":[
+          
+            {
+                "id": 3,
+                "title": "third",
+                "content": "The content of the Announcement",
+                "type": "Announcement",
+                "type_id": 3
+            },
+            {
+                "id": 6,
+                "title": "sixth",
+                "content": "The content of the Announcement",
+                "type": "Announcement",
+                "type_id": 3
+            },
+            {
+                "id": 7,
+                "title": "seventh",
+                "content": "The content of the Announcement",
+                "type": "Announcement",
+                "type_id": 3
+            }
+        ]
+    }
+}

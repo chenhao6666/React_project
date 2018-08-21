@@ -1,0 +1,78 @@
+{ 
+    "code": 200,
+    "data": {
+        "boardlist":[
+            {
+                "id": 1,
+                "title": "first",
+                "content": "The content of the Life",
+                "type": "Life",
+                "type_id": 1
+            },
+            {
+                "id": 2,
+                "title": "second",
+                "content": "The content of the Technology",
+                "type": "Technology",
+                "type_id": 2
+            },
+            {
+                "id": 3,
+                "title": "third",
+                "content": "The content of the Announcement",
+                "type": "Announcement",
+                "type_id": 3
+            },
+            {
+                "id": 4,
+                "title": "fouth",
+                "content": "The content of the Life",
+                "type": "Life",
+                "type_id": 1
+            },
+            {
+                "id": 5,
+                "title": "fifth",
+                "content": "The content of the Life",
+                "type": "Life",
+                "type_id": 1
+            },
+            {
+                "id": 6,
+                "title": "sixth",
+                "content": "The content of the Announcement",
+                "type": "Announcement",
+                "type_id": 3
+            },
+            {
+                "id": 7,
+                "title": "seventh",
+                "content": "The content of the Announcement",
+                "type": "Announcement",
+                "type_id": 3
+            },
+            {
+                "id": 8,
+                "title": "eighth",
+                "content": "The content of the Technology",
+                "type": "Technology",
+                "type_id": 2
+            },
+            {
+                "id": 9,
+                "title": "nith",
+                "content": "The content of the Technology",
+                "type": "Technology",
+                "type_id": 2
+            },
+            {
+                "id": 10,
+                "title": "tenth",
+                "content": "The content of the Technology",
+                "type": "Technology",
+                "type_id": 2
+            }
+
+        ]
+    }
+}
